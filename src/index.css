@@ -58,13 +58,13 @@ li {
 h1 {
   font-size: 56px;
   color: #7342d6;
-  margin-bottom: 24px;
+  margin-bottom: 8px;
   text-align: center;
 }
 
 h2 {
   font-size: 32px;
-  margin-bottom: 32px;
+  margin-bottom: 8px;
   text-align: center;
 }
 
@@ -245,7 +245,7 @@ header {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 75px;
+  margin-top: 100px;
 }
 
 .header__img--wrapper {
